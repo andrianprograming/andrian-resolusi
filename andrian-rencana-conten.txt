@@ -3,8 +3,8 @@
  -Video Game 
  #Shorts video
  #Fremwork code
- -view
- -React
+ -angular
+ -react
  #Struktur data dasar
  -Ngoding game
   -laravel
