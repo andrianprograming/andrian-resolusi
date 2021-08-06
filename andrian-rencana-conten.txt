@@ -3,7 +3,10 @@
  -Video Game 
  #Shorts video
  #Fremwork code
+ -view
  #Struktur data dasar
  -Ngoding game
+  -laravel
  -Vlogs
  -emmmm
+-python
