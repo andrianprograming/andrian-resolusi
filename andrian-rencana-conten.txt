@@ -4,6 +4,7 @@
  #Shorts video
  #Fremwork code
  -view
+ -React
  #Struktur data dasar
  -Ngoding game
   -laravel
